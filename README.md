@@ -1,4 +1,4 @@
-# DQ Python-Project 2: Predicting Car Prices
+# DQ Python-Project 2: Profitable App Profiles for the App Store and Google Play Markets
 This is my second project in Dataquest towards my journey in Python Programming. This project aims to help developers what type of apps are likely to attract more users. Specifically, we'll be using frequency distribution tables to determine which app is the most profitable to recommend for both iOS and Android. In this project, the following concepts are used to achieve the given problem:
 - List functions
 - Dictionaries
